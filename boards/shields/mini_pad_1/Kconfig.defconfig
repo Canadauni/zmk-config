@@ -1,0 +1,6 @@
+if SHIELD_MINI_PAD_1
+
+config ZMK_KEYBOARD_NAME
+    default "mini_pad"
+
+endif # SHIELD_MINI_PAD_1
