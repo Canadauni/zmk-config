@@ -20,4 +20,4 @@
 ---
 include:
   - board: nice_nano
-    shield: mini_pad
+    shield: mini_pad_1
